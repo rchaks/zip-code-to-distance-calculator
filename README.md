@@ -37,7 +37,8 @@ You will need 2 csv files both w/ the same format.  One w/ the source addresses
 and the other with destination addresses.  Each file should have a header row
 with a column named Zip Code:
 ```
-
+Zip Code,Zip Code Name,State
+10552,Mount Vernon, NY
 ``` 
 
 Two sample files (sample_address_file_a.csv and sample_address_file_b.csv) are provided for testing.
